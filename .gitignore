@@ -1,0 +1,6 @@
+# following files are ignored by git
+*.iml
+*.ipr
+*.iws
+target/
+.idea/
